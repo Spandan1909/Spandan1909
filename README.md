@@ -77,7 +77,7 @@
 
 - 🌐 Portfolio: Coming Soon
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/spandan-dey?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBGNCdu48T%2FqTJbq%2BKH2bwQ%3D%3D
+- 🔗 LinkedIn: https://www.linkedin.com/in/spandan-dey
 
 
 
