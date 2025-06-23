@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Spandan Dey</h1>
+<h1 align="center">Hi 👋, I'm Spandan Dey</h1>
 
 <h3 align="center">💻 Artificial Intelligence | 🛡 Data Structures Enthusiast</h3>
 
