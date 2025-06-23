@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=spandandey&label=Profile%20views&color=0e75b6&style=flat" alt="spandandey" />
+  <img src="https://komarev.com/ghpvc/?username=spandan1909&label=Profile%20views&color=0e75b6&style=flat" alt="spandandey" />
 
 </p>
 
@@ -59,9 +59,9 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=spandandey&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spandan1909&show_icons=true&theme=radical" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandandey&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan1909&layout=compact&theme=radical" width="48%" />
 
 </p>
 
